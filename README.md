@@ -147,6 +147,6 @@ If you find some overlooked papers or resourses, please open issues or pull requ
     * code: [cross-domain-detection](https://github.com/naoto0804/cross-domain-detection)
 * 20180508 CVPR 2018 [Domain Adaptive Faster R-CNN for Object Detection in the Wild](https://arxiv.org/abs/1803.03243)
     * image level alignment, instance level alignment and consistency regularization
-    * code: [da-faster-rcnn](https://github.com/yuhuayc/da-faster-rcnn)
+    * code: [da-faster-rcnn](https://github.com/yuhuayc/da-faster-rcnn).
 
 
